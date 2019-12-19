@@ -1,0 +1,64 @@
+{
+    "name": "Huffington Post Tech",
+    "description": "Read the latest headlines, news stories, and opinion from Politics, Entertainment, Life, Perspectives, and more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/132-huffington-post-tech.jpg",
+    "tags": [
+        "have api",
+        "tech blog"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/huffington-post-tech\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Huffington Post Tech",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/132-huffington-post-tech.jpg",
+            "humanURL": "http:\/\/www.huffingtonpost.com\/tech\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/huffington-post-tech-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/huffington-post-tech-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.huffingtonpost.com\/tech\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.huffingtonpost.com\/tech\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.huffingtonpost.com\/feeds\/verticals\/technology\/index.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/huffpost-tech"
+        },
+        {
+            "type": "Email",
+            "url": "corrections@huffingtonpost.com"
+        },
+        {
+            "type": "Email",
+            "url": "contact-media@huffingtonpost.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/HuffPost"
+        }
+    ]
+}
